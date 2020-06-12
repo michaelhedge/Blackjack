@@ -46,7 +46,6 @@ public class Deck  {
         bron.kaartVerwijderen(0);
     }
 
-    //Use to print out deck
     public String toString(){
         String kaartenOutput = "";
         int i = 0;
